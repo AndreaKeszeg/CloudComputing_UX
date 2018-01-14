@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+#Kontakte{
+	float: left;
+    width: 10em; height: 30em;
+    margin-bottom: 1em;
+    border: 3px solid black;
+}
+#Daten{
+	float: right;
+    width: 15em; height: 30em;
+    margin-bottom: 1em;
+    border: 3px solid black;
+}
+#Historie{
+	display: block;
+	margin: 430px auto;
+    width: 600px;
+    height: 10em;
+    margin-bottom: 1em;
+    border: 3px solid black;
+}
